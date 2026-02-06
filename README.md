@@ -12,17 +12,9 @@
 
 🌐 Connect with me
 <p align="left">
-<a href="https://www.instagram.com/YOUR_USERNAME" target="_blank">
-## 🌐 Connect with me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_USERNAME)
-
-</a>
-
-<a href="https://www.linkedin.com/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
-</a>
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/starshadow4341)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-gupta-934711186)
 </p>
 
 
@@ -51,7 +43,7 @@
 
 
 ## 📈 GitHub Stats
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanGupta321&show_icons=true&theme=default)
 
 
 ⭐ *Thanks for visiting my profile! Let's build something amazing together.*

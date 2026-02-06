@@ -4,19 +4,19 @@
 💻 Passionate about coding, problem solving, and building real-world projects  
 
 🔭 Currently working on improving my Data Structures & Algorithms and development skills  
-🌱 Currently learning Full Stack Development and advanced Java concepts  
+🌱 Currently learning Backend Development
 🤝 Looking to learn, collaborate, and contribute to meaningful open-source projects  
 🚀 Curious learner who enjoys turning ideas into working software  
 📚 Believes in consistent daily progress and lifelong learning  
 
-
+<br>
 🌐 Connect with me
 <p align="left">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/starshadow4341)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-gupta-934711186)
 </p>
-
+<br>
 
 
 ## 🛠️ Languages and Tools
@@ -29,6 +29,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<br>
 
 ## 🛠️ Backend & Tools
 
@@ -38,12 +39,7 @@
 ![EJS](https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=ejs&logoColor=black)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 </p>
-
-
-
-## 📈 GitHub Stats
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=aman-gupta-934711186&show_icons=true&theme=default)
-
+<br>
 
 
 ⭐ *Thanks for visiting my profile! Let's build something amazing together.*

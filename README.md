@@ -1,11 +1,11 @@
 # Hi 👋, I'm Aman Gupta
 
 🎓 MCA Student at NIT Delhi  
-💻 Passionate about coding...
+💻 Turning curiosity into small projects and real skills, one step at a time.
 
-🔭 Currently working on improving my Data Structures & Algorithms and development skills  
-🌱 Currently learning Backend Development
-🤝 Looking to learn, collaborate, and contribute to meaningful open-source projects  
+🔭 Currently working on improving my Data Structures & Algorithms in C++
+🌱 Learning Backend Development
+🤝 Ready to contribute to open-source projects  
 🚀 Curious learner who enjoys turning ideas into working software  
 📚 Believes in consistent daily progress and lifelong learning  
 

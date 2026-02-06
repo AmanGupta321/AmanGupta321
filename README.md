@@ -1,7 +1,7 @@
 # Hi 👋, I'm Aman Gupta
 
 🎓 MCA Student at NIT Delhi  
-💻 Passionate about coding, problem solving, and building real-world projects  
+💻 Passionate about coding...
 
 🔭 Currently working on improving my Data Structures & Algorithms and development skills  
 🌱 Currently learning Backend Development
@@ -30,7 +30,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 <br>
-
+<br>
 ## 🛠️ Backend & Tools
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -42,4 +42,4 @@
 <br>
 
 
-⭐ *Thanks for visiting my profile! Let's build something amazing together.*
+⭐ *Thanks for visiting my profile!*

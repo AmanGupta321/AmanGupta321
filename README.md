@@ -3,8 +3,8 @@
 🎓 MCA Student at NIT Delhi  
 💻 Turning curiosity into small projects and real skills, one step at a time.
 
-🔭 Currently working on improving my Data Structures & Algorithms in C++
-🌱 Learning Backend Development
+🔭 Currently working on improving my Data Structures & Algorithms in C++ <br>
+🌱 Learning Backend Development<br>
 🤝 Ready to contribute to open-source projects  
 🚀 Curious learner who enjoys turning ideas into working software  
 📚 Believes in consistent daily progress and lifelong learning  

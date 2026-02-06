@@ -43,7 +43,7 @@
 
 
 ## 📈 GitHub Stats
-![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmanGupta321&show_icons=true&theme=default)
+![Aman's GitHub stats](https://github-readme-stats.vercel.app/api?username="AmanGupta321"&show_icons=true&theme=default)
 
 
 ⭐ *Thanks for visiting my profile! Let's build something amazing together.*

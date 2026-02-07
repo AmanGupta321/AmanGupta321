@@ -42,5 +42,6 @@
 </p>
 <br>
 
+![Profile views](https://komarev.com/ghpvc/?username=AmanGupta321&color=blue)
 
 ⭐ *Thanks for visiting my profile!*

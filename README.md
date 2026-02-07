@@ -43,6 +43,6 @@
 <br>
 
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=AmanGupta321&color=blue) -->
-![](https://komarev.com/ghpvc/?username=AmanGupta321&color=grey)
+<img src="https://komarev.com/ghpvc/?username=AmanGupta321&label=&color=blue&style=flat" />
 
 ⭐ *Thanks for visiting my profile!*

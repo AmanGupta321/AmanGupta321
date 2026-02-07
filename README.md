@@ -35,6 +35,7 @@
 ## 🛠️ Backend & Tools
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=AmanGupta321&label=&color=blue&style=flat" />
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![EJS](https://img.shields.io/badge/EJS-8BC34A?style=for-the-badge&logo=ejs&logoColor=black)
@@ -43,6 +44,6 @@
 <br>
 
 <!-- ![Profile views](https://komarev.com/ghpvc/?username=AmanGupta321&color=blue) -->
-<img src="https://komarev.com/ghpvc/?username=AmanGupta321&label=&color=blue&style=flat" />
+
 
 ⭐ *Thanks for visiting my profile!*

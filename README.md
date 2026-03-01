@@ -12,7 +12,9 @@
 <br>
 🌐 Connect with me
 <p align="left">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/starshadow4341)
+  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aman-gupta-934711186)
 </p>
 <br>

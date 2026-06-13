@@ -7,7 +7,7 @@
 🌱 Strong understanding of backend development and currently learning frontend to grow into a well-rounded full-stack developer<br>
 🤝 Ready to contribute to open-source projects  
 🚀 Curious learner who enjoys turning ideas into working software  
-📚 Believes in consistent daily progress and lifelong learning  
+📚 Believes in consistent daily progress.
 
 <br>
 🌐 Connect with me
